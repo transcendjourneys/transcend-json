@@ -1,12 +1,62 @@
 {
-    "blogs": [
-      {
-        "title": "India Beyond the Taj Mahal: 5 Hidden Luxury Experiences",
-        "slug": "india-beyond-taj-mahal-hidden-luxury-experiences",
-        "url": "https://cdn.jsdelivr.net/gh/transcendjourneys/transcend-json@main/blogs/india-beyond-taj-mahal-hidden-luxury-experiences.json",
-        "isFeatured": true
-      }
-    ],
-    "lastUpdated": "2025-01-20T10:00:00Z",
-    "version": "1.0"
-  }
+  "blogs": [
+    {
+      "title": "5 Best Luxury Boutique Hotels in India: Curated Stays for 2025-2026",
+      "slug": "hidden-luxury-hotels-of-india",
+      "url": "https://cdn.jsdelivr.net/gh/transcendjourneys/transcend-json@main/blogs/hidden-hotels-of-india.json",
+      "isFeatured": true,
+      "isActive": true
+    },
+    {
+      "title": "Hola Mohalla: A Soul-Stirring Sikh Festival in Punjab",
+      "slug": "luxury-cultural-tour-hola-mohalla-punjab",
+      "url": "https://cdn.jsdelivr.net/gh/transcendjourneys/transcend-json@main/blogs/luxury-cultural-tour-hola-mohalla-punjab.json",
+      "isFeatured": true,
+      "isActive": true
+    },
+    {
+      "title": "Palaces, Jungles & Sacred Rivers: India's Golden Triangle Reimagined for the Elite Traveller",
+      "slug": "private-golden-triangle-luxury-tour-ranthambore",
+      "url": "https://cdn.jsdelivr.net/gh/transcendjourneys/transcend-json@main/blogs/private-golden-triangle-luxury-tour-ranthambore.json",
+      "isFeatured": true,
+      "isActive": true
+    },
+    {
+      "title": "The Secret South: Sri Lanka's Coastal Hideaways & Tea Country Retreats",
+      "slug": "luxury-sri-lanka-south-coast-tea-country",
+      "url": "https://cdn.jsdelivr.net/gh/transcendjourneys/transcend-json@main/blogs/luxury-sri-lanka-south-coast-tea-country.json",
+      "isFeatured": true,
+      "isActive": true
+    },
+    {
+      "title": "Why Experiential Travel Is the New Luxury",
+      "slug": "why-experiential-travel-is-the-new-luxury",
+      "url": "https://cdn.jsdelivr.net/gh/transcendjourneys/transcend-json@main/blogs/why-experiential-travel-is-the-new-luxury.json",
+      "isFeatured": true,
+      "isActive": true
+    },
+    {
+      "title": "India Beyond the Taj Mahal: 5 Hidden Luxury Experiences",
+      "slug": "india-beyond-taj-mahal-hidden-luxury-experiences",
+      "url": "https://cdn.jsdelivr.net/gh/transcendjourneys/transcend-json@main/blogs/india-beyond-taj-mahal-hidden-luxury-experiences.json",
+      "isFeatured": true,
+      "isActive": true
+    },
+    {
+      "title": "Kochi Reimagined: Where Art Meets Heritage in Kerala's Cultural Capital",
+      "slug": "kochi-reimagined-art-heritage-kerala",
+      "url": "https://cdn.jsdelivr.net/gh/transcendjourneys/transcend-json@main/blogs/kochi-reimagined.json",
+      "isFeatured": false,
+      "isActive": true
+    },
+    {
+      "title": "Pushkar Fair: Where Camels Swagger and Colours Take Flight",
+      "slug": "pushkar-fair-camels-colours-rajasthan",
+      "url": "https://cdn.jsdelivr.net/gh/transcendjourneys/transcend-json@main/blogs/pushkar-fair.json",
+      "isFeatured": false,
+      "isActive": false
+    }
+  ],
+  "lastUpdated": "2025-01-20T10:00:00Z",
+  "version": "1.0"
+}
