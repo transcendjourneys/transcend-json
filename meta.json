@@ -47,12 +47,19 @@
       "slug": "kochi-reimagined-art-heritage-kerala",
       "url": "https://cdn.jsdelivr.net/gh/transcendjourneys/transcend-json@main/blogs/kochi-reimagined.json",
       "isFeatured": false,
-      "isActive": true
+      "isActive": false
     },
     {
       "title": "Pushkar Fair: Where Camels Swagger and Colours Take Flight",
       "slug": "pushkar-fair-camels-colours-rajasthan",
       "url": "https://cdn.jsdelivr.net/gh/transcendjourneys/transcend-json@main/blogs/pushkar-fair.json",
+      "isFeatured": false,
+      "isActive": false
+    },
+    {
+      "title": "The Art of Slow Travel in the Himalayas",
+      "slug": "art-of-slow-travel-in-the-himalayas",
+      "url": "https://cdn.jsdelivr.net/gh/transcendjourneys/transcend-json@main/blogs/art-of-slow-travel-in-the-himalayas.json",
       "isFeatured": false,
       "isActive": false
     }
