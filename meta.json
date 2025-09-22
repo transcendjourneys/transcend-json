@@ -1,0 +1,12 @@
+{
+    "blogs": [
+      {
+        "title": "India Beyond the Taj Mahal: 5 Hidden Luxury Experiences",
+        "slug": "india-beyond-taj-mahal-hidden-luxury-experiences",
+        "url": "https://cdn.jsdelivr.net/gh/transcendjourneys/transcend-json@main/blogs/india-beyond-taj-mahal-hidden-luxury-experiences.json",
+        "isFeatured": true
+      }
+    ],
+    "lastUpdated": "2025-01-20T10:00:00Z",
+    "version": "1.0"
+  }
